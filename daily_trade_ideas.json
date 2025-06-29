@@ -1,0 +1,419 @@
+{
+    "date": "2025-06-28",
+    "ideas": [
+        {
+            "ticker": "BRK-B",
+            "type": "stock",
+            "sector": "conglomerate",
+            "volatility": "moderate",
+            "price": 485.68,
+            "RSI": 40.29,
+            "MACD": -5.48,
+            "Signal": -6.01,
+            "bollinger": {
+                "mid": 490.51,
+                "upper": 501.93,
+                "lower": 479.09
+            },
+            "score": 80,
+            "reason": "RSI < 60, MACD crossover, Price < 20-day average",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "DOGE-USD",
+            "type": "crypto",
+            "sector": "crypto",
+            "volatility": "high",
+            "price": 0.16,
+            "RSI": 37.95,
+            "MACD": -0.01,
+            "Signal": -0.01,
+            "bollinger": {
+                "mid": 0.17,
+                "upper": 0.2,
+                "lower": 0.15
+            },
+            "score": 80,
+            "reason": "RSI < 60, MACD crossover, Price < 20-day average",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "AAPL",
+            "type": "stock",
+            "sector": "tech",
+            "volatility": "moderate",
+            "price": 201.08,
+            "RSI": 44.62,
+            "MACD": -0.73,
+            "Signal": -1.17,
+            "bollinger": {
+                "mid": 200.44,
+                "upper": 205.01,
+                "lower": 195.87
+            },
+            "score": 60,
+            "reason": "RSI < 60, MACD crossover",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "XLF",
+            "type": "stock",
+            "sector": "financial",
+            "volatility": "moderate",
+            "price": 51.94,
+            "RSI": 59.34,
+            "MACD": 0.39,
+            "Signal": 0.29,
+            "bollinger": {
+                "mid": 50.8,
+                "upper": 51.95,
+                "lower": 49.66
+            },
+            "score": 60,
+            "reason": "RSI < 60, MACD crossover",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "BTC-USD",
+            "type": "crypto",
+            "sector": "crypto",
+            "volatility": "high",
+            "price": 107262.0,
+            "RSI": 56.48,
+            "MACD": 384.7,
+            "Signal": 165.77,
+            "bollinger": {
+                "mid": 106004.86,
+                "upper": 110637.67,
+                "lower": 101372.04
+            },
+            "score": 60,
+            "reason": "RSI < 60, MACD crossover",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "SOL-USD",
+            "type": "crypto",
+            "sector": "crypto",
+            "volatility": "high",
+            "price": 150.9,
+            "RSI": 55.86,
+            "MACD": -3.75,
+            "Signal": -4.49,
+            "bollinger": {
+                "mid": 147.58,
+                "upper": 164.43,
+                "lower": 130.73
+            },
+            "score": 60,
+            "reason": "RSI < 60, MACD crossover",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "XRP-USD",
+            "type": "crypto",
+            "sector": "crypto",
+            "volatility": "high",
+            "price": 2.19,
+            "RSI": 54.1,
+            "MACD": -0.02,
+            "Signal": -0.03,
+            "bollinger": {
+                "mid": 2.17,
+                "upper": 2.32,
+                "lower": 2.03
+            },
+            "score": 60,
+            "reason": "RSI < 60, MACD crossover",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "ETH-USD",
+            "type": "crypto",
+            "sector": "crypto",
+            "volatility": "high",
+            "price": 2434.82,
+            "RSI": 43.73,
+            "MACD": -29.59,
+            "Signal": -19.24,
+            "bollinger": {
+                "mid": 2508.87,
+                "upper": 2797.11,
+                "lower": 2220.63
+            },
+            "score": 50,
+            "reason": "RSI < 60, Price < 20-day average",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "ADA-USD",
+            "type": "crypto",
+            "sector": "crypto",
+            "volatility": "high",
+            "price": 0.56,
+            "RSI": 35.51,
+            "MACD": -0.04,
+            "Signal": -0.03,
+            "bollinger": {
+                "mid": 0.61,
+                "upper": 0.72,
+                "lower": 0.51
+            },
+            "score": 50,
+            "reason": "RSI < 60, Price < 20-day average",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "MSFT",
+            "type": "stock",
+            "sector": "tech",
+            "volatility": "moderate",
+            "price": 495.94,
+            "RSI": 76.71,
+            "MACD": 12.96,
+            "Signal": 12.58,
+            "bollinger": {
+                "mid": 476.7,
+                "upper": 499.0,
+                "lower": 454.4
+            },
+            "score": 30,
+            "reason": "MACD crossover",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "NVDA",
+            "type": "stock",
+            "sector": "tech",
+            "volatility": "moderate",
+            "price": 157.75,
+            "RSI": 77.76,
+            "MACD": 6.25,
+            "Signal": 5.63,
+            "bollinger": {
+                "mid": 144.55,
+                "upper": 155.73,
+                "lower": 133.37
+            },
+            "score": 30,
+            "reason": "MACD crossover",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "AMZN",
+            "type": "stock",
+            "sector": "retail",
+            "volatility": "moderate",
+            "price": 223.3,
+            "RSI": 63.1,
+            "MACD": 3.86,
+            "Signal": 3.75,
+            "bollinger": {
+                "mid": 212.3,
+                "upper": 221.63,
+                "lower": 202.97
+            },
+            "score": 30,
+            "reason": "MACD crossover",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "GOOGL",
+            "type": "stock",
+            "sector": "tech",
+            "volatility": "moderate",
+            "price": 178.53,
+            "RSI": 57.4,
+            "MACD": 1.7,
+            "Signal": 1.98,
+            "bollinger": {
+                "mid": 172.27,
+                "upper": 181.21,
+                "lower": 163.34
+            },
+            "score": 30,
+            "reason": "RSI < 60",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "META",
+            "type": "stock",
+            "sector": "tech",
+            "volatility": "moderate",
+            "price": 733.63,
+            "RSI": 64.18,
+            "MACD": 22.67,
+            "Signal": 21.99,
+            "bollinger": {
+                "mid": 693.66,
+                "upper": 732.76,
+                "lower": 654.55
+            },
+            "score": 30,
+            "reason": "MACD crossover",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "NFLX",
+            "type": "stock",
+            "sector": "entertainment",
+            "volatility": "moderate",
+            "price": 1323.12,
+            "RSI": 71.25,
+            "MACD": 34.47,
+            "Signal": 29.25,
+            "bollinger": {
+                "mid": 1239.42,
+                "upper": 1305.53,
+                "lower": 1173.3
+            },
+            "score": 30,
+            "reason": "MACD crossover",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "JPM",
+            "type": "stock",
+            "sector": "financial",
+            "volatility": "moderate",
+            "price": 287.11,
+            "RSI": 81.62,
+            "MACD": 6.96,
+            "Signal": 5.48,
+            "bollinger": {
+                "mid": 271.59,
+                "upper": 287.92,
+                "lower": 255.26
+            },
+            "score": 30,
+            "reason": "MACD crossover",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "XLK",
+            "type": "stock",
+            "sector": "tech",
+            "volatility": "moderate",
+            "price": 250.77,
+            "RSI": 73.92,
+            "MACD": 5.95,
+            "Signal": 5.56,
+            "bollinger": {
+                "mid": 240.8,
+                "upper": 251.91,
+                "lower": 229.69
+            },
+            "score": 30,
+            "reason": "MACD crossover",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "ARKK",
+            "type": "stock",
+            "sector": "growth",
+            "volatility": "moderate",
+            "price": 69.84,
+            "RSI": 75.14,
+            "MACD": 3.86,
+            "Signal": 3.38,
+            "bollinger": {
+                "mid": 63.64,
+                "upper": 73.41,
+                "lower": 53.88
+            },
+            "score": 30,
+            "reason": "MACD crossover",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "QQQ",
+            "type": "stock",
+            "sector": "tech",
+            "volatility": "moderate",
+            "price": 548.09,
+            "RSI": 68.55,
+            "MACD": 9.28,
+            "Signal": 8.93,
+            "bollinger": {
+                "mid": 531.41,
+                "upper": 546.48,
+                "lower": 516.34
+            },
+            "score": 30,
+            "reason": "MACD crossover",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "SPY",
+            "type": "stock",
+            "sector": "broad",
+            "volatility": "moderate",
+            "price": 614.91,
+            "RSI": 68.42,
+            "MACD": 7.99,
+            "Signal": 7.48,
+            "bollinger": {
+                "mid": 598.96,
+                "upper": 612.91,
+                "lower": 585.02
+            },
+            "score": 30,
+            "reason": "MACD crossover",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "VTI",
+            "type": "stock",
+            "sector": "broad",
+            "volatility": "moderate",
+            "price": 303.31,
+            "RSI": 67.26,
+            "MACD": 3.92,
+            "Signal": 3.7,
+            "bollinger": {
+                "mid": 295.62,
+                "upper": 302.52,
+                "lower": 288.73
+            },
+            "score": 30,
+            "reason": "MACD crossover",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "VOO",
+            "type": "stock",
+            "sector": "broad",
+            "volatility": "moderate",
+            "price": 566.95,
+            "RSI": 68.37,
+            "MACD": 7.38,
+            "Signal": 6.92,
+            "bollinger": {
+                "mid": 552.21,
+                "upper": 565.11,
+                "lower": 539.32
+            },
+            "score": 30,
+            "reason": "MACD crossover",
+            "suggested_action": "Buy"
+        },
+        {
+            "ticker": "TSLA",
+            "type": "stock",
+            "sector": "auto",
+            "volatility": "moderate",
+            "price": 323.63,
+            "RSI": 63.57,
+            "MACD": 3.11,
+            "Signal": 4.11,
+            "bollinger": {
+                "mid": 325.33,
+                "upper": 357.56,
+                "lower": 293.1
+            },
+            "score": 20,
+            "reason": "Price < 20-day average",
+            "suggested_action": "Buy"
+        }
+    ]
+}
